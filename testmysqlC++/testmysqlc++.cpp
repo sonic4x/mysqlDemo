@@ -1,3 +1,4 @@
+// work under linux
 #include <mysql/mysql.h>
 #include <string>
 #include <stdio.h>
